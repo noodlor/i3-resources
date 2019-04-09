@@ -1,6 +1,6 @@
 # i3-resources
 
-By design, the [i3 window manager]( https://i3wm.org/)implements only "features which benefit many people, instead of going to great lengths to support rarely used workflows." Instead, the interface makes it easy for users and third parties to implement small features and improvements. This page is a listing of those useful but hitherto un-indexed resources. 
+By design, the [i3 window manager](https://i3wm.org/) implements only "features which benefit many people, instead of going to great lengths to support rarely used workflows." Instead, the interface makes it easy for users and third parties to implement small features and improvements. This page is a listing of those useful but hitherto un-indexed resources. 
 
 --------------------
 
