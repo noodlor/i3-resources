@@ -1,6 +1,6 @@
 # i3-resources
-A directory of scripts and other tools to make the i3 experience better
 
+By design, the [i3 window manager]( https://i3wm.org/)implements only "features which benefit many people, instead of going to great lengths to support rarely used workflows." Instead, the interface makes it easy for users and third parties to implement small features and improvements. This page is a listing of those useful but hitherto un-indexed resources. 
 
 --------------------
 
@@ -15,13 +15,11 @@ A directory of scripts and other tools to make the i3 experience better
   - [Workspace Management](#workspace-management)
 - [Contributing](#contributing)
 
-
 --------------------
 
 <!-- BEGIN SOFTWARE LIST -->
 
 ## Bars and Blocks
-
 
 ### Bars
 
@@ -64,8 +62,6 @@ A directory of scripts and other tools to make the i3 experience better
 - [i3empty](https://github.com/roguh/i3empty) - Quickly switch to a new numbered workspace.
 
 - [i3-renameworkspaces](https://github.com/mh21/i3-renameworkspaces) -  Rename i3 workspaces to contain the names of the programs on them.
-
-
 
 # Contributing
 
