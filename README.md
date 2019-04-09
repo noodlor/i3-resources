@@ -62,7 +62,7 @@ A directory of scripts and other tools to make the i3 experience better
 ## Workspace Management
 
 - [i3empty](https://github.com/roguh/i3empty) - Quickly switch to a new numbered workspace.
-- 
+
 - [i3-renameworkspaces](https://github.com/mh21/i3-renameworkspaces) -  Rename i3 workspaces to contain the names of the programs on them.
 
 
@@ -70,8 +70,8 @@ A directory of scripts and other tools to make the i3 experience better
 # Contributing
 
 - Please contribute! The more complete this list, the better for everyone.
-- To add a new entry, edit README.md [through Github]( https://github.com/noodlor/i3-resources/edit/master/README.md) or a text editor, and send a pull request.
-- Maintain the alphabetical order and Name/Link - Description format.
+- To add a new entry, edit README.md [through Github](https://github.com/noodlor/i3-resources/edit/master/README.md) or a text editor, and send a pull request.
+- Maintain the alphabetical order and "Name/Link - Description" format.
 - New categories should contain at least three entries.
  
 
