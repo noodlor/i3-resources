@@ -61,7 +61,9 @@ By design, the [i3 window manager](https://i3wm.org/) implements only "features 
 
 - [i3empty](https://github.com/roguh/i3empty) - Quickly switch to a new numbered workspace.
 
-- [i3-renameworkspaces](https://github.com/mh21/i3-renameworkspaces) -  Rename i3 workspaces to contain the names of the programs on them.
+- [i3-renameworkspaces](https://github.com/mh21/i3-renameworkspaces) - Rename i3 workspaces to contain the names of the programs on them.
+
+- [i3-ws-tool](https://github.com/jolange/i3-ws-tool) - Tool to handle, manipulate and modify i3 workspaces.
 
 # Contributing
 
